@@ -13,6 +13,7 @@ body{
     text-align: center;
     height: 100vh;
     color: black;
+ background-repeat: no-repeat;
 }
 #time{
     font-size: 8rem;
